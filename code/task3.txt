@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Study Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>
+        Welcome to Study Hub
+    </h1>
+    <h2>
+        About Me
+    </h2>
+    <img src=" c:\Users\goudo\OneDrive\Documents\study.jpg"alt="Sample Image" alt="Sample Image">
+    <p>  Welcome to Smart Study Hub, a platform designed to help students learn programming and web development in a simple and interactive way. Explore tutorials, practice coding, build projects, and improve your technical skills through hands-on learning.</p>
+</body>
+</html>
