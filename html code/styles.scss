@@ -1,0 +1,25 @@
+$primary-color:#2288e2;
+$background-color:#dbeff5;
+$font-size: 18px;
+body {
+  background-color:$background-color;
+  font-family: Arial,sans-serif;
+  text-align: center;
+}
+h1 {
+  color:$primary-color;
+}
+p {
+  font-size:$font-size;
+  color:#ceaaaa;
+}
+button {
+  background-color: $primary-color;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  &:hover {
+    background-color: #1565c0;
+  }
+}
